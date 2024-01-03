@@ -1,0 +1,7 @@
+https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/
+
+Add a random powers, names, phrase with javascript
+
+when customer enter to the website click button reveal on the header part, then he click the "summon cards" button and codes will suffle the features of cards. If one card has greater power value than the others it will win.
+
+Change loser cards opacity to 0.33 or whatever u like.
